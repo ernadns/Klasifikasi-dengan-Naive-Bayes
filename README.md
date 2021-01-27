@@ -1,1 +1,1 @@
-# Klasifikasi-dengan-Naive-Bayes
+# Classification-with-Naive-Bayes
